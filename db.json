@@ -9,6 +9,11 @@
     { "id": 2, "title": "New Post 2" },
     { "id": 3, "title": "New Post 3" }
   ],
+   "crosoft": [
+    { "id": 1, "title": "Mrec" },
+    { "id": 2, "title": "BMW" },
+    { "id": 3, "title": "Jag" }
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
