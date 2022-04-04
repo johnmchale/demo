@@ -65,54 +65,6 @@
 			"salary": "$50k-$200k"
 		},
 		{
-			"id": 739323,
-			"url": "https://remotive.io/remote-jobs/software-dev/php-developer-739323",
-			"title": "PHP Developer",
-			"company_name": "WP Media",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-18T20:17:47",
-			"candidate_required_location": "between UTC+2 to UTC-7",
-			"salary": ""
-		},
-		{
-			"id": 949484,
-			"url": "https://remotive.io/remote-jobs/software-dev/full-stack-developer-949484",
-			"title": "Full Stack Developer",
-			"company_name": "Volcanic Internet SL",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-18T08:34:50",
-			"candidate_required_location": "Europe Only",
-			"salary": "40.000€ - 50.000€ per year"
-		},
-		{
-			"id": 737488,
-			"url": "https://remotive.io/remote-jobs/software-dev/senior-java-engineer-737488",
-			"title": "Senior Java Engineer",
-			"company_name": "Help Scout",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-18T02:11:50",
-			"candidate_required_location": "Anywhere between MT and CET",
-			"salary": "$129,000 - $149,000"
-		},
-		{
-			"id": 737492,
-			"url": "https://remotive.io/remote-jobs/software-dev/java-engineer-737492",
-			"title": "Java Engineer",
-			"company_name": "Help Scout",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-18T02:11:35",
-			"candidate_required_location": "Anywhere",
-			"salary": "$129,000 to 156,000 USD"
-		},
-		{
 			"id": 921962,
 			"url": "https://remotive.io/remote-jobs/software-dev/lead-software-engineer-921962",
 			"title": "Lead Software Engineer",
