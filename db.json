@@ -65,42 +65,6 @@
 			"salary": "$50k-$200k"
 		},
 		{
-			"id": 951655,
-			"url": "https://remotive.io/remote-jobs/software-dev/ruby-on-rails-developer-951655",
-			"title": "Ruby on Rails Developer",
-			"company_name": "Bearer",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "",
-			"publication_date": "2021-10-19T08:19:52",
-			"candidate_required_location": "EMEA Only",
-			"salary": ""
-		},
-		{
-			"id": 921789,
-			"url": "https://remotive.io/remote-jobs/software-dev/react-developer-921789",
-			"title": "React Developer",
-			"company_name": "lm group",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-19T05:40:43",
-			"candidate_required_location": "Europe Only",
-			"salary": ""
-		},
-		{
-			"id": 739337,
-			"url": "https://remotive.io/remote-jobs/software-dev/python-django-software-engineer-739337",
-			"title": "Python + Django Software Engineer",
-			"company_name": "WP Media",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-19T02:28:48",
-			"candidate_required_location": "UTC+2 to UTC-7",
-			"salary": ""
-		},
-		{
 			"id": 739323,
 			"url": "https://remotive.io/remote-jobs/software-dev/php-developer-739323",
 			"title": "PHP Developer",
