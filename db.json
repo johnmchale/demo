@@ -159,66 +159,6 @@
 			"publication_date": "2021-10-16T21:07:39",
 			"candidate_required_location": "France",
 			"salary": ""
-		},
-		{
-			"id": 687352,
-			"url": "https://remotive.io/remote-jobs/software-dev/senior-lead-front-end-engineer-687352",
-			"title": "Senior/Lead Front-End Engineer",
-			"company_name": "BackMarket",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "contract",
-			"publication_date": "2021-10-16T21:07:32",
-			"candidate_required_location": "UK, Germany, France, and the Netherlands",
-			"salary": ""
-		},
-		{
-			"id": 691015,
-			"url": "https://remotive.io/remote-jobs/software-dev/technical-leader-backend-691015",
-			"title": "Technical Leader - Backend",
-			"company_name": "BackMarket",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "contract",
-			"publication_date": "2021-10-16T21:07:29",
-			"candidate_required_location": "UK, Germany, France, Spain, and the Netherlands",
-			"salary": ""
-		},
-		{
-			"id": 899742,
-			"url": "https://remotive.io/remote-jobs/software-dev/senior-cloud-architect-899742",
-			"title": "Senior Cloud Architect",
-			"company_name": "BackMarket",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-16T21:07:25",
-			"candidate_required_location": "UK, Germany, France, & the Netherlands",
-			"salary": ""
-		},
-		{
-			"id": 846300,
-			"url": "https://remotive.io/remote-jobs/software-dev/php-symfony-developer-846300",
-			"title": "PHP-Symfony Developer",
-			"company_name": "Vialma",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-16T20:07:39",
-			"candidate_required_location": "GMT-1 to GMT+7",
-			"salary": "£35K-£42K (40k-48k€) per year"
-		},
-		{
-			"id": 798256,
-			"url": "https://remotive.io/remote-jobs/software-dev/senior-software-engineer-798256",
-			"title": "Senior Software Engineer",
-			"company_name": "Partly",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-07-23T01:39:25",
-			"candidate_required_location": "New Zealand",
-			"salary": ""
 		}
 	]
 }
