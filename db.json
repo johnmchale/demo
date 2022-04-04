@@ -77,30 +77,6 @@
 			"salary": ""
 		},
 		{
-			"id": 949796,
-			"url": "https://remotive.io/remote-jobs/software-dev/engineering-manager-f-m-949796",
-			"title": "Engineering Manager (f/*/m)",
-			"company_name": "Frontastic",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-18T20:02:53",
-			"candidate_required_location": "Anywhere",
-			"salary": "€64k - €92k"
-		},
-		{
-			"id": 930689,
-			"url": "https://remotive.io/remote-jobs/software-dev/python-team-lead-software-engineer-930689",
-			"title": "Python Team Lead Software Engineer",
-			"company_name": "Tucows",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-18T15:26:57",
-			"candidate_required_location": "",
-			"salary": "$100,000 - $150,000 per year"
-		},
-		{
 			"id": 949484,
 			"url": "https://remotive.io/remote-jobs/software-dev/full-stack-developer-949484",
 			"title": "Full Stack Developer",
