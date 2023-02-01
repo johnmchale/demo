@@ -1,164 +1,202 @@
 {
-	"posts": [
-		{
-			"id": 1,
-			"title": "Post 1"
-		},
-		{
-			"id": 2,
-			"title": "Post 2"
-		},
-		{
-			"id": 3,
-			"title": "Post 3"
-		}
-	],
-	"newposts": [
-		{
-			"id": 1,
-			"title": "New Post 1"
-		},
-		{
-			"id": 2,
-			"title": "New Post 2"
-		},
-		{
-			"id": 3,
-			"title": "New Post 3"
-		}
-	],
-	"jobs": [
-		{
-			"id": 952202,
-			"url": "https://remotive.io/remote-jobs/software-dev/back-end-developer-pangea-digital-952202",
-			"title": "Back End Developer, Pangea Digital",
-			"company_name": "Radio Free Europe/Radio Liberty",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-19T14:38:43",
-			"candidate_required_location": "Eastern Europe Only",
-			"salary": ""
-		},
-		{
-			"id": 669488,
-			"url": "https://remotive.io/remote-jobs/software-dev/software-engineer-crawling-reverse-engineering-669488",
-			"title": "Software Engineer (Crawling/Reverse Engineering)",
-			"company_name": "Argyle",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-19T14:15:29",
-			"candidate_required_location": "Europe/South America/South-east Asia",
-			"salary": "$40k - $80k"
-		},
-		{
-			"id": 951610,
-			"url": "https://remotive.io/remote-jobs/software-dev/full-stack-engineer-951610",
-			"title": "Full Stack Engineer",
-			"company_name": "Remote Ok",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-19T10:31:31",
-			"candidate_required_location": "Worldwide",
-			"salary": "$50k-$200k"
-		},
-		{
-			"id": 921962,
-			"url": "https://remotive.io/remote-jobs/software-dev/lead-software-engineer-921962",
-			"title": "Lead Software Engineer",
-			"company_name": "Fleetio",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-17T21:46:17",
-			"candidate_required_location": "USA, Canada, and Mexico",
-			"salary": ""
-		},
-		{
-			"id": 920806,
-			"url": "https://remotive.io/remote-jobs/software-dev/senior-backend-developer-920806",
-			"title": "Senior Backend Developer",
-			"company_name": "valiu",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-17T21:46:14",
-			"candidate_required_location": "Anywhere",
-			"salary": ""
-		},
-		{
-			"id": 908725,
-			"url": "https://remotive.io/remote-jobs/software-dev/react-native-engineer-908725",
-			"title": "React Native Engineer",
-			"company_name": "ProDev",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "contract",
-			"publication_date": "2021-10-17T21:46:10",
-			"candidate_required_location": "USA Only",
-			"salary": ""
-		},
-		{
-			"id": 919966,
-			"url": "https://remotive.io/remote-jobs/software-dev/full-stack-engineer-customer-facing-919966",
-			"title": "Full Stack Engineer - Customer Facing",
-			"company_name": "navattic",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-17T21:46:06",
-			"candidate_required_location": "USA Only",
-			"salary": ""
-		},
-		{
-			"id": 919967,
-			"url": "https://remotive.io/remote-jobs/software-dev/principal-software-engineer-python-apis-919967",
-			"title": "Principal Software Engineer (Python/APIs)",
-			"company_name": "belvo",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-17T21:46:02",
-			"candidate_required_location": "CEST timezone",
-			"salary": ""
-		},
-		{
-			"id": 919965,
-			"url": "https://remotive.io/remote-jobs/software-dev/full-stack-engineer-919965",
-			"title": "Full-Stack Engineer",
-			"company_name": "navattic",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "full_time",
-			"publication_date": "2021-10-17T17:41:12",
-			"candidate_required_location": "USA Only",
-			"salary": ""
-		},
-		{
-			"id": 685107,
-			"url": "https://remotive.io/remote-jobs/software-dev/expert-backend-engineer-685107",
-			"title": "Expert Backend Engineer",
-			"company_name": "BackMarket",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "contract",
-			"publication_date": "2021-10-16T21:07:49",
-			"candidate_required_location": "UK, Germany, France, & the Netherlands",
-			"salary": ""
-		},
-		{
-			"id": 685152,
-			"url": "https://remotive.io/remote-jobs/software-dev/security-architect-sae-685152",
-			"title": "Security Architect SAE",
-			"company_name": "BackMarket",
-			"category": "Software Development",
-			"tags": [],
-			"job_type": "contract",
-			"publication_date": "2021-10-16T21:07:39",
-			"candidate_required_location": "France",
-			"salary": ""
-		}
-	]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "seats": [
+    {
+      "id": 1,
+      "row": "A",
+      "seatNumber": 1,
+      "status": "unreserved"
+    },
+    {
+      "id": 2,
+      "row": "A",
+      "seatNumber": 2,
+      "status": "reserved"
+    },
+    {
+      "id": 3,
+      "row": "A",
+      "seatNumber": 3,
+      "status": "booked"
+    },
+    {
+      "id": 4,
+      "row": "B",
+      "seatNumber": 1,
+      "status": "unreserved"
+    },
+    {
+      "id": 5,
+      "row": "B",
+      "seatNumber": 2,
+      "status": "reserved"
+    },
+    {
+      "id": 6,
+      "row": "B",
+      "seatNumber": 3,
+      "status": "booked"
+    }
+  ],
+  "newposts": [
+    {
+      "id": 1,
+      "title": "New Post 1"
+    },
+    {
+      "id": 2,
+      "title": "New Post 2"
+    },
+    {
+      "id": 3,
+      "title": "New Post 3"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 952202,
+      "url": "https://remotive.io/remote-jobs/software-dev/back-end-developer-pangea-digital-952202",
+      "title": "Back End Developer, Pangea Digital",
+      "company_name": "Radio Free Europe/Radio Liberty",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-19T14:38:43",
+      "candidate_required_location": "Eastern Europe Only",
+      "salary": ""
+    },
+    {
+      "id": 669488,
+      "url": "https://remotive.io/remote-jobs/software-dev/software-engineer-crawling-reverse-engineering-669488",
+      "title": "Software Engineer (Crawling/Reverse Engineering)",
+      "company_name": "Argyle",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-19T14:15:29",
+      "candidate_required_location": "Europe/South America/South-east Asia",
+      "salary": "$40k - $80k"
+    },
+    {
+      "id": 951610,
+      "url": "https://remotive.io/remote-jobs/software-dev/full-stack-engineer-951610",
+      "title": "Full Stack Engineer",
+      "company_name": "Remote Ok",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-19T10:31:31",
+      "candidate_required_location": "Worldwide",
+      "salary": "$50k-$200k"
+    },
+    {
+      "id": 921962,
+      "url": "https://remotive.io/remote-jobs/software-dev/lead-software-engineer-921962",
+      "title": "Lead Software Engineer",
+      "company_name": "Fleetio",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-17T21:46:17",
+      "candidate_required_location": "USA, Canada, and Mexico",
+      "salary": ""
+    },
+    {
+      "id": 920806,
+      "url": "https://remotive.io/remote-jobs/software-dev/senior-backend-developer-920806",
+      "title": "Senior Backend Developer",
+      "company_name": "valiu",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-17T21:46:14",
+      "candidate_required_location": "Anywhere",
+      "salary": ""
+    },
+    {
+      "id": 908725,
+      "url": "https://remotive.io/remote-jobs/software-dev/react-native-engineer-908725",
+      "title": "React Native Engineer",
+      "company_name": "ProDev",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "contract",
+      "publication_date": "2021-10-17T21:46:10",
+      "candidate_required_location": "USA Only",
+      "salary": ""
+    },
+    {
+      "id": 919966,
+      "url": "https://remotive.io/remote-jobs/software-dev/full-stack-engineer-customer-facing-919966",
+      "title": "Full Stack Engineer - Customer Facing",
+      "company_name": "navattic",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-17T21:46:06",
+      "candidate_required_location": "USA Only",
+      "salary": ""
+    },
+    {
+      "id": 919967,
+      "url": "https://remotive.io/remote-jobs/software-dev/principal-software-engineer-python-apis-919967",
+      "title": "Principal Software Engineer (Python/APIs)",
+      "company_name": "belvo",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-17T21:46:02",
+      "candidate_required_location": "CEST timezone",
+      "salary": ""
+    },
+    {
+      "id": 919965,
+      "url": "https://remotive.io/remote-jobs/software-dev/full-stack-engineer-919965",
+      "title": "Full-Stack Engineer",
+      "company_name": "navattic",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "full_time",
+      "publication_date": "2021-10-17T17:41:12",
+      "candidate_required_location": "USA Only",
+      "salary": ""
+    },
+    {
+      "id": 685107,
+      "url": "https://remotive.io/remote-jobs/software-dev/expert-backend-engineer-685107",
+      "title": "Expert Backend Engineer",
+      "company_name": "BackMarket",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "contract",
+      "publication_date": "2021-10-16T21:07:49",
+      "candidate_required_location": "UK, Germany, France, & the Netherlands",
+      "salary": ""
+    },
+    {
+      "id": 685152,
+      "url": "https://remotive.io/remote-jobs/software-dev/security-architect-sae-685152",
+      "title": "Security Architect SAE",
+      "company_name": "BackMarket",
+      "category": "Software Development",
+      "tags": [],
+      "job_type": "contract",
+      "publication_date": "2021-10-16T21:07:39",
+      "candidate_required_location": "France",
+      "salary": ""
+    }
+  ]
 }
