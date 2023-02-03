@@ -57,19 +57,19 @@
         "id": 1,
         "row": "A",
         "seatNumber": 1,
-        "status": "grey"
+        "status": "unreserved"
       },
       {
         "id": 2,
         "row": "A",
         "seatNumber": 2,
-        "status": "grey"
+        "status": "reserved"
       },
       {
         "id": 3,
         "row": "A",
         "seatNumber": 3,
-        "status": "grey"
+        "status": "booked"
       }
     ],
     [
@@ -77,19 +77,19 @@
         "id": 4,
         "row": "B",
         "seatNumber": 1,
-        "status": "grey"
+        "status": "unreserved"
       },
       {
         "id": 5,
         "row": "B",
         "seatNumber": 2,
-        "status": "grey"
+        "status": "reserved"
       },
       {
         "id": 6,
         "row": "B",
         "seatNumber": 3,
-        "status": "grey"
+        "status": "booked"
       }
     ]
   ],
